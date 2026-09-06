@@ -1,0 +1,5 @@
+interface:
+  display_name: "Frontend Design"
+  short_description: "Create distinctive frontend designs"
+policy:
+  allow_implicit_invocation: false
